@@ -17,5 +17,9 @@ During this lab session, I learned how to:
 - Initialize a repository with a README file
 - Edit files in GitHub
 - Make commits directly to the main branch
+- Created a Jupyter Notebook in Google Colab
+- Added Markdown and Python code cells
+- Executed code and observed outputs
+- Uploaded the notebook to GitHub
 
 
