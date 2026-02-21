@@ -2,8 +2,8 @@
 Repository to explore Colab, Jupyter, and other tools for lab assignments
 
 #AUTHOR
-Name: Anashrah Adil
-Student Id: W218592189
+Name: Anashrah Adil/
+Student Id: W218592189/
 Course: Comp Vision-Artificial Intel-22600ITAI-1378
 
 #OVERVIEW
